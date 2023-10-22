@@ -1,4 +1,4 @@
-# Inteactive Client Sales Dashboard
+# Interactive Client Sales Dashboard
 
 ## Project Overview
 
