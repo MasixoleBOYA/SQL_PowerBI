@@ -1,6 +1,6 @@
-![dash](Screenshots/dashboard_sheet1.png)
 # Interactive Client Sales Dashboard
 
+![dash](Screenshots/dashboard_sheet1.png)
 ## Project Overview
 
 This project aims to transform a static sales report into an interactive Power BI-based dashboard. The primary goal is to provide a detailed overview of product sales, customer engagement, and performance against budget, offering valuable insights to stakeholders.
