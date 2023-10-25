@@ -1,3 +1,4 @@
+![dash](Screenshots/dashboard_sheet1.png)
 # Interactive Client Sales Dashboard
 
 ## Project Overview
